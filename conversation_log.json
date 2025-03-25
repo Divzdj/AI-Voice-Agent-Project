@@ -1,0 +1,70 @@
+[
+    {
+        "timestamp": "2025-03-21T15:45:55.955361+00:00",
+        "call_sid": "8b7e4f81-77ef-40e2-9bcb-09122b92b7ae",
+        "caller_number": "+1234567890",
+        "user_input": "What products do you offer?",
+        "role": "user",
+        "content": "What products do you offer?"
+    },
+    {
+        "timestamp": "2025-03-21T15:46:42.544083+00:00",
+        "call_sid": "8b7e4f81-77ef-40e2-9bcb-09122b92b7ae",
+        "caller_number": "+1234567890",
+        "ai_response": "I offer a wide variety of products. I have a lot of different products to choose from.",
+        "audio_url": "http://example.com/ai_response_audio.mp3",
+        "role": "assistant",
+        "content": "I offer a wide variety of products. I have a lot of different products to choose from."
+    },
+    {
+        "timestamp": "2025-03-21T15:49:26.917794+00:00",
+        "call_sid": "8b7e4f81-77ef-40e2-9bcb-09122b92b7ae",
+        "caller_number": "+1234567890",
+        "user_input": "Can you tell me about your AI services?",
+        "role": "user",
+        "content": "Can you tell me about your AI services?"
+    },
+    {
+        "timestamp": "2025-03-21T15:49:31.699989+00:00",
+        "call_sid": "8b7e4f81-77ef-40e2-9bcb-09122b92b7ae",
+        "caller_number": "+1234567890",
+        "ai_response": "I work for a company that develops and sells robotics. What do you want to know?",
+        "audio_url": "http://example.com/ai_response_audio.mp3",
+        "role": "assistant",
+        "content": "I work for a company that develops and sells robotics. What do you want to know?"
+    },
+    {
+        "timestamp": "2025-03-21T15:50:15.518685+00:00",
+        "call_sid": "8b7e4f81-77ef-40e2-9bcb-09122b92b7ae",
+        "caller_number": "+1234567890",
+        "user_input": "Do you offer any discounts?",
+        "role": "user",
+        "content": "Do you offer any discounts?"
+    },
+    {
+        "timestamp": "2025-03-21T15:50:20.433702+00:00",
+        "call_sid": "8b7e4f81-77ef-40e2-9bcb-09122b92b7ae",
+        "caller_number": "+1234567890",
+        "ai_response": "I do not, but I can tell you about my company if you'd like to know more.",
+        "audio_url": "http://example.com/ai_response_audio.mp3",
+        "role": "assistant",
+        "content": "I do not, but I can tell you about my company if you'd like to know more."
+    },
+    {
+        "timestamp": "2025-03-21T15:51:08.199613+00:00",
+        "call_sid": "8b7e4f81-77ef-40e2-9bcb-09122b92b7ae",
+        "caller_number": "+1234567890",
+        "user_input": "What is the pricing model?",
+        "role": "user",
+        "content": "What is the pricing model?"
+    },
+    {
+        "timestamp": "2025-03-21T15:51:12.822308+00:00",
+        "call_sid": "8b7e4f81-77ef-40e2-9bcb-09122b92b7ae",
+        "caller_number": "+1234567890",
+        "ai_response": "It depends on the product, but it ranges from $100,000 to $200,000.",
+        "audio_url": "http://example.com/ai_response_audio.mp3",
+        "role": "assistant",
+        "content": "It depends on the product, but it ranges from $100,000 to $200,000."
+    }
+]

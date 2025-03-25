@@ -1,0 +1,100 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.todo-list {
+  margin-top: 20px;
+}
+
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f4f4f4;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+.todo-item button {
+  margin-left: 10px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+form input {
+  padding: 10px;
+  width: 70%;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+form button {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #61dafb;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #21a1f1;
+}
+
+.real-time-status {
+  margin-top: 20px;
+  background-color: #e0e0e0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.conversation-log {
+  margin-top: 20px;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.conversation-log ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.conversation-log li {
+  background-color: white;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+.controls button {
+  margin: 0 5px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #61dafb;
+  cursor: pointer;
+}
+
+.controls button:hover {
+  background-color: #21a1f1;
+}
+
+.timer {
+  margin-top: 20px;
+  font-size: 1.5em;
+}

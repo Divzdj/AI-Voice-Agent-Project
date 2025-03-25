@@ -1,0 +1,26 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore large files
+ffmpeg-2025-03-17-git-5b9356f18e-full_build/*
+Postman-win64-Setup.exe
+
+# Ignore virtual environment
+.venv/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE configuration files
+.idea/

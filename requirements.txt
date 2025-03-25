@@ -1,0 +1,8 @@
+Flask[async]
+requests
+twilio
+deepgram-sdk
+openai
+aiohttp
+python-dotenv
+vocode
